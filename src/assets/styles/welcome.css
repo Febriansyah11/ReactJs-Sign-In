@@ -1,0 +1,19 @@
+.welcome {
+    height: 100vh;
+}
+.left-side {
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+    /* align-self: center;
+    justify-content: center;
+    align-items: center; */
+}
+
+.title-text {
+    font-weight: bold;
+    color: white;
+}
+
+.btn-welcome {
+    border-radius: 5%;
+}
